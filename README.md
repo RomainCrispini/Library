@@ -1,3 +1,3 @@
-JavaFX<br>Example of a Books Library
+JavaFX<br>What a beautiful Books Library
 
 ![alt text](https://github.com/RomainCrispini/Library/blob/master/LibraryCover.png?raw=true)
